@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cooksys.secondassessment.SecondAssessmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.457 sec - in com.cooksys.secondassessment.SecondAssessmentApplicationTests
